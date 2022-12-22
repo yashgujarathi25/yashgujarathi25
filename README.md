@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgujarathi25&label=Profile%20views&color=0e75b6&style=flat" alt="yashgujarathi25" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgujarathi25" alt="yashgujarathi25" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgujarathi25" alt="yashgujarathi25" /></a> </p>
 
 - 🔭 I’m currently working on **Net Banking**
 
